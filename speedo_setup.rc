@@ -1,0 +1,4 @@
+#include "resource.h"
+
+IDR_DIALSINFO_GFX RCDATA "DialsInfo.gfx"
+IDR_ARK_PATHS RCDATA "ark_paths.txt"
